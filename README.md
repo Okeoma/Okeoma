@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Data Scientist with a passion for using data to drive insights and solve real-world problems. I have experience in a variety of industries, including healthcare, finance, and e-commerce, and I'm always looking for new challenges and opportunities to learn.
+I'm a Data Scientist with a passion for using data to drive insights and solve real-world problems. I have experience in a variety of industries, including education, hospitality, finance, and e-commerce, and I'm always looking for new challenges and opportunities to learn.
 
 ## My Skills
 
@@ -15,15 +15,13 @@ I'm a Data Scientist with a passion for using data to drive insights and solve r
 
 Here are a few examples of projects I've worked on:
 
-- **Healthcare Analytics:** Analyzed patient data to identify factors that contribute to hospital readmissions, and developed a predictive model to reduce readmission rates.
-- **Credit Risk Modeling:** Developed a machine learning model to predict credit risk for a financial services company, resulting in improved loan approval rates.
+- **Advertisement Analytics:** Analyzed different advertisement data to identify factors that contribute to improved sales and developed a predictive model to reduce budgeting for ineffective adverts and improve the promotion of highly profitable advertisement campaigns.
+- **Insurance Premium Predictor:** Created an Insurance premium predictor app with Streamlit library to analyze customers experience with insurance firms to suggest the likelihood of a customer becoming a premium member or being retained.
+- **Image Classification Modeling:** Developed a machine learning model to predict Image recognition and classification for various IT firms, resulting in improved services in the application of optical systems in mobile phones and other computer devices.
 - **E-Commerce Recommendation Engine:** Built a recommendation engine to provide personalized product recommendations for an e-commerce website, resulting in increased sales and customer satisfaction.
 
 ## Contact Me
 
-Feel free to reach out to me at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/[LinkedIn Username]/). I'm always interested in new opportunities and collaborations!
+Feel free to reach out to me at [okeoma@hotmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/[okeoma-ihunwo-b69b3664]/). I'm always interested in new opportunities and collaborations!
 
 ***
-
-*This README.md landing page was designed using the [GitHub Styling Guide](https://guides.github.com/features/mastering-markdown/) for attractive and consistent styling.*
-
