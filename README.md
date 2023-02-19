@@ -22,6 +22,6 @@ Here are a few examples of projects I've worked on:
 
 ## Contact Me
 
-Feel free to reach out to me at [okeoma@hotmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/[okeoma-ihunwo-b69b3664]/). I'm always interested in new opportunities and collaborations!
+Feel free to reach out to me at [okeoma@hotmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/okeoma-ihunwo-b69b3664/). I'm always interested in new opportunities and collaborations!
 
 ***
